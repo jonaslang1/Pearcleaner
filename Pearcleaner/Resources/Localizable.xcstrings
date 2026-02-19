@@ -7480,7 +7480,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hahn hinzufügen"
+            "value" : "Tap hinzufügen"
           }
         },
         "es" : {
@@ -8070,7 +8070,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adoptieren..."
+            "value" : "Übernehmen…"
           }
         },
         "es" : {
@@ -8780,7 +8780,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestätigen Sie immer die zum Entfernen markierten Dateien. In seltenen Fällen können nicht verwandte Dateien gefunden werden, wenn die Namen der Anwendungen zu ähnlich sind.\n\nHINWEIS: Pearcleaner verwendet AppleScript, um Dateien zu entfernen. Derzeit erlaubt macOS nicht, dass AppleScript sich mit dem Fingerabdrucksensor authentifiziert, nur die Passwortauthentifizierung wird unterstützt."
+            "value" : "Bestätigen Sie immer die zum Entfernen markierten Dateien. In seltenen Fällen können nicht verwandte Dateien gefunden werden, wenn die Namen der App zu ähnlich sind.\n\nHINWEIS: Pearcleaner verwendet AppleScript, um Dateien zu entfernen. Derzeit erlaubt macOS nicht, dass AppleScript sich mit dem Fingerabdrucksensor authentifiziert, nur die Passwortauthentifizierung wird unterstützt."
           }
         },
         "es" : {
@@ -9846,7 +9846,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programmname"
+            "value" : "Appname"
           }
         },
         "es" : {
@@ -10082,7 +10082,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programmgrösse"
+            "value" : "Appgrösse"
           }
         },
         "es" : {
@@ -10673,7 +10673,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die Programmdatei ist in Unterverzeichnissen verschachtelt. Um zu verhindern, dass falsche Ordner gelöscht werden, lässt Pearcleaner diese aus. Sie können die übrigen Ordner bei Bedarf manuell löschen."
+            "value" : "Die Appdatei ist in Unterverzeichnissen verschachtelt. Um zu verhindern, dass falsche Ordner gelöscht werden, lässt Pearcleaner diese aus. Sie können die übrigen Ordner bei Bedarf manuell löschen."
           }
         },
         "es" : {
@@ -10791,7 +10791,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anwendungsordner"
+            "value" : "App-Ordner"
           }
         },
         "es" : {
@@ -10910,7 +10910,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programm Skript"
+            "value" : "App Skript"
           }
         },
         "es" : {
@@ -11028,7 +11028,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programme"
+            "value" : "Apps"
           }
         },
         "es" : {
@@ -11736,7 +11736,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sind Sie sicher, dass Sie diesen Tab entfernen möchten?"
+            "value" : "Sind Sie sicher, dass Sie diesen Tap entfernen möchten?"
           }
         },
         "es" : {
@@ -12563,7 +12563,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abzeichen-Benachrichtigungsüberlagerungen deaktiviert"
+            "value" : "Kennzeichen-Benachrichtigungsüberlagerungen deaktiviert"
           }
         },
         "es" : {
@@ -12681,7 +12681,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Badge-Benachrichtigungsüberlagerungen aktiviert"
+            "value" : "Kennzeichen-Benachrichtigungsüberlagerungen aktiviert"
           }
         },
         "es" : {
@@ -13743,7 +13743,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Das Bündel-Dünnen (lipo) ist ein aggressiver Vorgang, der die Binärdateien innerhalb von App-Bündeln modifiziert, indem ungenutzte Architekturen entfernt werden. Obwohl es im Allgemeinen sicher ist, können einige Anwendungen nach diesem Prozess Probleme haben oder nicht starten. Es wird dringend empfohlen, vor dem Fortfahren ein Backup Ihrer Anwendungen zu erstellen, insbesondere für kritische oder häufig verwendete Apps."
+            "value" : "Das Bundle-Dünnen (lipo) ist ein aggressiver Vorgang, der die Binärdateien innerhalb von App-Bündeln modifiziert, indem ungenutzte Architekturen entfernt werden. Obwohl es im Allgemeinen sicher ist, können einige Apps nach diesem Prozess Probleme haben oder nicht starten. Es wird dringend empfohlen, vor dem Fortfahren ein Backup Ihrer App zu erstellen, insbesondere für kritische oder häufig verwendete Apps."
           }
         },
         "es" : {
@@ -13862,7 +13862,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bündel-Dünnung abgeschlossen Gesamter Speicherplatz, der durch alle Binärdateien im Bündel eingespart wurde"
+            "value" : "Bundle-Dünnung abgeschlossen. Gesamter Speicherplatz, der durch alle Binärdateien im Bündel eingespart wurde."
           }
         },
         "es" : {
@@ -13980,7 +13980,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paket: %@"
+            "value" : "Bundle: %@"
           }
         },
         "es" : {
@@ -14926,7 +14926,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fass nicht gefunden"
+            "value" : "Cask nicht gefunden"
           }
         },
         "es" : {
@@ -15044,7 +15044,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fässer"
+            "value" : "Casks"
           }
         },
         "es" : {
@@ -15162,7 +15162,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fässer (%lld)"
+            "value" : "Casks (%lld)"
           }
         },
         "es" : {
@@ -17172,7 +17172,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klicke für Programmliste"
+            "value" : "Klicke für App-Liste"
           }
         },
         "es" : {
@@ -17764,7 +17764,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schliessen"
+            "value" : "Schließen"
           }
         },
         "es" : {
@@ -17883,7 +17883,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schliesse nach dem Entfernen"
+            "value" : "Schließe nach dem Entfernen"
           }
         },
         "es" : {
@@ -18948,7 +18948,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Behälter"
+            "value" : "Container"
           }
         },
         "es" : {
@@ -23790,7 +23790,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erkennen, wenn Anwendungen in den Papierkorb verschoben werden"
+            "value" : "Erkennen, wenn Apps in den Papierkorb verschoben werden"
           }
         },
         "es" : {
@@ -24144,7 +24144,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entwicklung Umgebung"
+            "value" : "Entwicklungsumgebungen"
           }
         },
         "es" : {
@@ -25090,7 +25090,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ziehe ein Programm hierhin"
+            "value" : "Ziehe eine App hierhin"
           }
         },
         "es" : {
@@ -26628,7 +26628,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wenn Sie die CLI aktivieren, können Sie Pearcleaner-Aktionen über das Terminal ausführen. Dies fügt den Befehl pearcleaner in /usr/local/bin ein, so dass er direkt über Ihre PATH-Umgebungsvariable verfügbar ist. Probieren Sie es nach der Aktivierung aus:\n\n> pear —Hilfe"
+            "value" : "Wenn Sie die CLI aktivieren, können Sie Pearcleaner-Aktionen über das Terminal ausführen. Dies fügt den Befehl pearcleaner in /usr/local/bin ein, so dass er direkt über Ihre PATH-Umgebungsvariable verfügbar ist. Probieren Sie es nach der Aktivierung aus:\n\n> pear —help"
           }
         },
         "es" : {
@@ -26747,7 +26747,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wenn Sie diese Erweiterung aktivieren, können Sie Anwendungen im Finder mit der rechten Maustaste anklicken, um sie mit Pearcleaner zu deinstallieren"
+            "value" : "Wenn Sie diese Erweiterung aktivieren, können Sie Apps im Finder per Rechts-Click schnell mit Pearcleaner deinstallieren."
           }
         },
         "es" : {
@@ -27337,7 +27337,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geben Sie den Namen des Wasserhahns ein, um ihn hinzuzufügen"
+            "value" : "Geben Sie den Namen des Taps ein, um ihn hinzuzufügen"
           }
         },
         "es" : {
@@ -30055,7 +30055,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weniger Dateien"
+            "value" : "Wenige Dateien"
           }
         },
         "es" : {
@@ -31830,7 +31830,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Formeln"
+            "value" : "Formulae"
           }
         },
         "es" : {
@@ -31948,7 +31948,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Formeln (%lld)"
+            "value" : "Formulae (%lld)"
           }
         },
         "es" : {
@@ -32777,7 +32777,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sammeln von Programmdetails"
+            "value" : "Sammeln von Appdetails"
           }
         },
         "es" : {
@@ -33842,7 +33842,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Helper"
+            "value" : "Helfer"
           }
         },
         "es" : {
@@ -34078,7 +34078,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hilfswerkzeug muss aktiviert werden"
+            "value" : "Helfer-Tool muss aktiviert werden"
           }
         },
         "es" : {
@@ -38802,7 +38802,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ungültige Signatur, stellen Sie sicher, dass die Anwendung und das Hilfsprogramm ordnungsgemäß signiert sind."
+            "value" : "Ungültige Signatur, stellen Sie sicher, dass die App und die Helfer-App ordnungsgemäß signiert sind."
           }
         },
         "es" : {
@@ -39864,7 +39864,14 @@
       }
     },
     "Last modified: %@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuletzt geändert: %@"
+          }
+        }
+      }
     },
     "Last Used Date" : {
       "localizations" : {
@@ -39990,7 +39997,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Starte Pearcleaner beim Start"
+            "value" : "Starte Pearcleaner beim Login"
           }
         },
         "es" : {
@@ -41998,7 +42005,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Startdienste werden geladen"
+            "value" : "Startdienste werden geladen…"
           }
         },
         "es" : {
@@ -42116,7 +42123,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lade Paketdetails..."
+            "value" : "Paketdetails werden geladen…"
           }
         },
         "es" : {
@@ -42466,7 +42473,14 @@
       }
     },
     "Loading permissions..." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berechtigungen werden geladen…"
+          }
+        }
+      }
     },
     "Loading plugins..." : {
       "localizations" : {
@@ -42591,7 +42605,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lade Wasserhähne..."
+            "value" : "Taps werden geladen..."
           }
         },
         "es" : {
@@ -43301,7 +43315,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "MacOS aktiviert Erweiterungen nur, wenn sich die Hauptanwendung im Ordner „Programme“ befindet."
+            "value" : "MacOS aktiviert Erweiterungen nur, wenn sich die Hauptapp im Ordner „Apps“ befindet."
           }
         },
         "es" : {
@@ -45191,7 +45205,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verändert am"
+            "value" : "Geändert am"
           }
         },
         "es" : {
@@ -45547,7 +45561,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die meisten Dateien"
+            "value" : "Viele Dateien"
           }
         },
         "es" : {
@@ -45901,7 +45915,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mehrfachauswahl in der Seitenleiste-App-Liste aktiviert"
+            "value" : "Mehrfachauswahl in der Seitenleisten-App-Liste aktiviert"
           }
         },
         "es" : {
@@ -46731,7 +46745,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nächstes Update am: %@"
+            "value" : "Nächste Update-Überprüfung am: %@"
           }
         },
         "es" : {
@@ -48030,7 +48044,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine passenden Fässer gefunden. Versuchen Sie unten die manuelle Eingabe."
+            "value" : "Keine passenden Casks gefunden. Versuchen Sie unten die manuelle Eingabe."
           }
         },
         "es" : {
@@ -49684,7 +49698,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Einsparungen durch Bündelreduzierung verfügbar"
+            "value" : "Keine Einsparungen durch Bundle-Ausdünnung verfügbar"
           }
         },
         "es" : {
@@ -49920,7 +49934,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Wasserhähne gefunden"
+            "value" : "Keine Taps gefunden"
           }
         },
         "es" : {
@@ -50157,7 +50171,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "kein Update 😌"
+            "value" : "Kein Update 😌"
           }
         },
         "es" : {
@@ -52286,7 +52300,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die Suche nach verwaisten Dateien ist nicht zu 100% genau, da sie keine deinstallierten Anwendungspakete findet, welche für den Dateiausschluss überprüfen werden können. Die Suche nach Dateien/Ordnern erfolgt nach bestem Wissen und Gewissen und schliesst diejenigen aus, die sich mit den derzeit installierten Anwendungen überschneiden. Bitte vergewissern Sie sich, dass die zum Löschen markierten Dateien wirklich zu deinstallierten Anwendungen gehören."
+            "value" : "Die Suche nach verwaisten Dateien ist nicht zu 100% genau, da sie keine deinstallierten App-Bundles findet, welche für den Dateiausschluss überprüfen werden können. Die Suche nach Dateien/Ordnern erfolgt nach bestem Wissen und Gewissen und schliesst diejenigen aus, die sich mit den derzeit installierten Apps überschneiden. Bitte vergewissern Sie sich, dass die zum Löschen markierten Dateien wirklich zu den deinstallierten Apps gehören."
           }
         },
         "es" : {
@@ -56422,7 +56436,14 @@
       }
     },
     "Previous action: %@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorherige Aktion: %@"
+          }
+        }
+      }
     },
     "Privileged Helper Not Installed!" : {
       "localizations" : {
@@ -56548,7 +56569,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "um Übersetzungen kürzen"
+            "value" : "Übersetzungen kürzen"
           }
         },
         "es" : {
@@ -56784,7 +56805,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Löschbar:"
+            "value" : "Bereinigbar:"
           }
         },
         "es" : {
@@ -58087,7 +58108,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erneuern"
+            "value" : "Aktualisieren"
           }
         },
         "es" : {
@@ -58324,7 +58345,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erneuere Programme"
+            "value" : "Aktualisierte Apps"
           }
         },
         "es" : {
@@ -58443,7 +58464,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erneuere Programme (⌘+R)"
+            "value" : "Aktualisierte Apps (⌘+R)"
           }
         },
         "es" : {
@@ -58680,7 +58701,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erneuere Updater"
+            "value" : "Aktualisiere Updater"
           }
         },
         "es" : {
@@ -59390,7 +59411,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbleibende Dateien und Ordner aus früheren Anwendungen"
+            "value" : "Verbleibende Dateien und Ordner aus früheren Apps"
           }
         },
         "es" : {
@@ -60806,7 +60827,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tippen entfernen"
+            "value" : "Tap entfernen"
           }
         },
         "es" : {
@@ -62461,7 +62482,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einstellungen zurücksetzten"
+            "value" : "Einstellungen zurücksetzen"
           }
         },
         "es" : {
@@ -62580,7 +62601,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grösse zurücksetzten"
+            "value" : "Grösse zurücksetzen"
           }
         },
         "es" : {
@@ -64472,7 +64493,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lauftyp: %@"
+            "value" : "Ausführungstyp: %@"
           }
         },
         "es" : {
@@ -64708,7 +64729,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Läuft..."
+            "value" : "Wird ausgeführt…"
           }
         },
         "es" : {
@@ -66007,7 +66028,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rollbalken ist in Listen ausgeblendet"
+            "value" : "Scrollbalken ist in Listen ausgeblendet"
           }
         },
         "es" : {
@@ -66125,7 +66146,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rollbalken ist in Listen ist auf die OS-Einstellung eingestellt"
+            "value" : "Scrollbalken ist in Listen ist auf die OS-Einstellung eingestellt"
           }
         },
         "es" : {
@@ -66834,7 +66855,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suche in diesen Ordnern nach Programmen"
+            "value" : "Suche in diesen Ordnern nach Apps"
           }
         },
         "es" : {
@@ -67070,7 +67091,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suche nach passenden Fässern..."
+            "value" : "Suche nach passenden Casks…"
           }
         },
         "es" : {
@@ -67778,7 +67799,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weniger sehen"
+            "value" : "Weniger anzeigen"
           }
         },
         "es" : {
@@ -67896,7 +67917,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Details zur Lipo anzeigen"
+            "value" : "Details zu Lipo anzeigen"
           }
         },
         "es" : {
@@ -68014,7 +68035,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mehr sehen"
+            "value" : "Mehr anzeigen"
           }
         },
         "es" : {
@@ -68132,7 +68153,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakete ansehen"
+            "value" : "Pakete anzeigen"
           }
         },
         "es" : {
@@ -70614,7 +70635,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "zeige nochmals die Ankündigungsplakette"
+            "value" : "Zeige nochmals die Ankündigungsplakette"
           }
         },
         "es" : {
@@ -70733,7 +70754,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige Programmliste beim Start"
+            "value" : "Zeige Appliste beim Start"
           }
         },
         "es" : {
@@ -72268,7 +72289,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einfache App-Liste deaktiviert"
+            "value" : "Einfache Appliste deaktiviert"
           }
         },
         "es" : {
@@ -72504,7 +72525,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Da **AuthorizationExecuteWithPrivileges** von Apple als weniger sichere Authentifizierungsmethode abgelehnt wurde, wurde es aus Pearcleaner entfernt und das Hilfsprogramm wird die einzige Option in Zukunft sein."
+            "value" : "Da **AuthorizationExecuteWithPrivileges** von Apple als weniger sichere Authentifizierungsmethode abgelehnt wurde, wurde es aus Pearcleaner entfernt und die Helferapp wird die einzige Option in Zukunft sein."
           }
         },
         "es" : {
@@ -72741,7 +72762,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grösse"
+            "value" : "Größe"
           }
         },
         "es" : {
@@ -73332,7 +73353,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programm-Liste alphabetisch nach Namen oder nach Grösse sortieren"
+            "value" : "App-Liste alphabetisch nach Namen oder nach Grösse sortieren"
           }
         },
         "es" : {
@@ -77355,7 +77376,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wasserhähne"
+            "value" : "Taps"
           }
         },
         "es" : {
@@ -77598,7 +77619,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Der gesamte Speicherplatz, der durch alle lipo'd Apps eingespart wurde  \nGröße vorher: %@  \nGröße nachher: %@"
+            "value" : "Der gesamte Speicherplatz, der durch alle Apps nach dem Lipo-Vorgang eingespart wurde  \nGröße vorher: %@  \nGröße nachher: %@"
           }
         },
         "es" : {
@@ -77835,7 +77856,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Themen Modus"
+            "value" : "Design Modus"
           }
         },
         "es" : {
@@ -78190,7 +78211,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hiermit werden Dateien bzw. Ordner zur Ausschlussliste hinzugefügt. Bearbeiten Sie die Ausschlussliste unter Einstellungen > Registerkarte Ordner"
+            "value" : "Hiermit werden Dateien bzw. Ordner zur Ausschlussliste hinzugefügt. Bearbeiten Sie die Ausschlussliste unter „Einstellungen“ > „Ordner“"
           }
         },
         "es" : {
@@ -78427,7 +78448,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Das Programm befindet sich in %@"
+            "value" : "Die App befindet sich in %@"
           }
         },
         "es" : {
@@ -78663,7 +78684,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diese Anwendung hat keinen unterstützten Installer. Sie können versuchen, sie in Homebrew zu übernehmen, wenn sie im Cask-Repo existiert."
+            "value" : "Diese App hat keinen unterstützten Installer. Sie können versuchen, sie in Homebrew zu übernehmen, wenn sie im Cask-Repo existiert."
           }
         },
         "es" : {
@@ -79373,7 +79394,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dadurch werden ausgewählte Elemente von zukünftigen Scans ausgeschlossen. Die Ausschlussliste kann unter Einstellungen > Ordner-Tab oder in der Seitenleiste in dieser Ansicht bearbeitet werden."
+            "value" : "Dadurch werden ausgewählte Elemente von zukünftigen Scans ausgeschlossen. Die Ausschlussliste kann unter „Einstellungen“ > „Ordner“ oder in der Seitenleiste in dieser Ansicht bearbeitet werden."
           }
         },
         "es" : {
@@ -81265,7 +81286,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Durchscheinendes Material"
+            "value" : "Transparentes Material"
           }
         },
         "es" : {
@@ -82447,7 +82468,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deinstallieren %@"
+            "value" : "%@ deinstallieren"
           }
         },
         "es" : {
@@ -82565,7 +82586,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deinstalliere %@?"
+            "value" : "%@ deinstallieren?"
           }
         },
         "es" : {
@@ -84927,7 +84948,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktualisieren %@?"
+            "value" : "%@ aktualisieren?"
           }
         },
         "es" : {
@@ -87411,7 +87432,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upgrade-Pakete"
+            "value" : "Pakete upgraden"
           }
         },
         "es" : {
@@ -88001,7 +88022,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gültiges Fass: %@"
+            "value" : "Gültiger Cask: %@"
           }
         },
         "es" : {
@@ -89300,7 +89321,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Im Finder zeigen"
+            "value" : "Im Finder anzeigen"
           }
         },
         "es" : {
@@ -89419,7 +89440,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige Probleme"
+            "value" : "Probleme anzeigen"
           }
         },
         "es" : {
@@ -89774,7 +89795,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige Projekt-Mitarbeitende"
+            "value" : "Projekt-Mitwirkende anzeigen"
           }
         },
         "es" : {
@@ -89893,7 +89914,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige Version"
+            "value" : "Version anzeigen"
           }
         },
         "es" : {
@@ -90126,7 +90147,14 @@
       }
     },
     "View TCC permissions for this app" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TCC-Berechtigungen für diese App anzeigen"
+          }
+        }
+      }
     },
     "View Update" : {
       "localizations" : {
@@ -90845,7 +90873,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Webanwendung"
+            "value" : "Webapp"
           }
         },
         "es" : {
@@ -91083,7 +91111,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wenn Programme in den Papierkorb verschoben werden, startet Pearcleaner und sucht nach zugehörigen Dateien und Ordnern, um diese zu löschen."
+            "value" : "Wenn Apps in den Papierkorb verschoben werden, startet Pearcleaner und sucht nach zugehörigen Dateien und Ordnern, um diese zu löschen."
           }
         },
         "es" : {
@@ -91557,7 +91585,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wenn die Homebrew-Bereinigung aktiviert ist, prüft Pearcleaner, ob die zu entfernende Anwendung über Homebrew installiert wurde und startet Terminal.app, um einen Befehl zum Deinstallieren und Bereinigen von Homebrew auszuführen, damit Homebrew weiss, dass die Anwendung entfernt wurde. Auf diese Weise wird Ihre Homebrew-Liste korrekt synchronisiert und die Zwischenspeicherung wird entfernt. Terminal.app ist erforderlich, da einige Anwendungen sudo-Berechtigungen benötigen, um Dienste und Dateien in Systemordnern zu entfernen. Da andere Terminal-Apps AppleScript und/oder den Befehl \"do script\" nicht unterstützen, habe ich mich dafür entschieden, die Standard macOS Terminal-App zu verwenden.\n\nHINWEIS: Wenn Sie das Löschen von Dateien mit CMD+Z rückgängig machen, werden die Dateien wiederhergestellt, aber Homebrew wird davon nichts mitbekommen. Um die Homebrew-Liste wieder zu synchronisieren, müssen Sie den Befehl ausführen:\n\n> brew install APPNAME --force"
+            "value" : "Wenn die Homebrew-Bereinigung aktiviert ist, prüft Pearcleaner, ob die zu entfernende App über Homebrew installiert wurde und startet Terminal.app, um einen Befehl zum Deinstallieren und Bereinigen von Homebrew auszuführen, damit Homebrew weiss, dass die App entfernt wurde. Auf diese Weise wird Ihre Homebrew-Liste korrekt synchronisiert und die Zwischenspeicherung wird entfernt. Terminal.app ist erforderlich, da einige Apps sudo-Berechtigungen benötigen, um Dienste und Dateien in Systemordnern zu entfernen. Da andere Terminal-Apps AppleScript und/oder den Befehl \"do script\" nicht unterstützen, habe ich mich dafür entschieden, die Standard macOS Terminal-App zu verwenden.\n\nHINWEIS: Wenn Sie das Löschen von Dateien mit CMD+Z rückgängig machen, werden die Dateien wiederhergestellt, aber Homebrew wird davon nichts mitbekommen. Um die Homebrew-Liste wieder zu synchronisieren, müssen Sie den Befehl ausführen:\n\n> brew install APPNAME --force"
           }
         },
         "es" : {
@@ -91793,7 +91821,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bei der Ausführung privilegierter Homebrew-Operationen speichert Pearcleaner Ihr Passwort für diesen Zeitraum im macOS-Schlüsselbund, um wiederholte Passwortabfragen zu vermeiden. Homebrew-Befehle können nicht mit dem von Pearcleaner angebotenen privilegierten Hilfsprogramm ausgeführt werden."
+            "value" : "Bei der Ausführung privilegierter Homebrew-Operationen speichert Pearcleaner Ihr Passwort für diesen Zeitraum im macOS-Schlüsselbund, um wiederholte Passwortabfragen zu vermeiden. Homebrew-Befehle können nicht mit dem von Pearcleaner angebotenen privilegierten Helferapp ausgeführt werden."
           }
         },
         "es" : {
@@ -91911,7 +91939,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Als das Hilfswerkzeug im März 2025 eingeführt wurde, hieß es, dass AuthorizationExecuteWithPrivileges (Gewährung der Authentifizierung über ein Passwort-Popup) schließlich entfernt werden würde, da es bereits von Apple veraltet ist. Einige Funktionen werden in Pearcleaner nicht mehr funktionieren, wenn das Hilfswerkzeug nicht aktiviert ist."
+            "value" : "Als das Hilfswerkzeug im März 2025 eingeführt wurde, hieß es, dass AuthorizationExecuteWithPrivileges (Gewährung der Authentifizierung über ein Passwort-Popup) schließlich entfernt werden würde, da es bereits von Apple als veraltet eingestuft wurde. Einige Funktionen werden in Pearcleaner nicht mehr funktionieren, wenn das Hilfswerkzeug nicht aktiviert ist."
           }
         },
         "es" : {
@@ -92030,7 +92058,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wenn dieser Modus aktiviert ist, wird Pearcleaner sofort geschlossen, wenn Sie auf die Schaltfläche Deinstallieren klicken, um eine Anwendung zu entfernen.\nDies wirkt sich nur auf Pearcleaner aus, wenn es über externe Mittel wie Sentinel Trash Monitor, eine Finder-Erweiterung oder einen Deep Link geöffnet wird.\nDies ermöglicht die einmalige Verwendung der Anwendung für eine schnelle Deinstallation. Wenn Pearcleaner normal geöffnet wird, wird diese Einstellung ignoriert und funktioniert wie gewohnt."
+            "value" : "Wenn dieser Modus aktiviert ist, wird Pearcleaner sofort geschlossen, wenn Sie auf die Schaltfläche Deinstallieren klicken, um eine App zu entfernen.\nDies wirkt sich nur auf Pearcleaner aus, wenn es über externe Mittel wie Sentinel Trash Monitor, eine Finder-Erweiterung oder einen Deep Link geöffnet wird.\nDies ermöglicht die einmalige Verwendung der App für eine schnelle Deinstallation. Wenn Pearcleaner normal geöffnet wird, wird diese Einstellung ignoriert und funktioniert wie gewohnt."
           }
         },
         "es" : {
@@ -92384,7 +92412,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arbeitsbereich-Speicherreiniger"
+            "value" : "Arbeitsbereich-Speicherbereiniger"
           }
         },
         "es" : {
