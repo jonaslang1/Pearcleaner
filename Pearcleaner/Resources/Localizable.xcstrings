@@ -246,7 +246,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "(same unit)"
+            "value" : "(gleiche Einheit)"
           }
         },
         "es" : {
@@ -719,7 +719,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ ist bereits die neuesten Version"
+            "value" : "%@ ist bereits auf der neuesten Version"
           }
         },
         "es" : {
@@ -3936,7 +3936,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "📦 Empfohlene Ersatzteile"
+            "value" : "📦 Empfohlener Ersatz"
           }
         },
         "es" : {
@@ -4054,7 +4054,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🔒 Nur-Fass"
+            "value" : "🔒Nur Keg"
           }
         },
         "es" : {
@@ -5235,7 +5235,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zugänglichkeit"
+            "value" : "Bedienungshilfen"
           }
         },
         "es" : {
@@ -5943,7 +5943,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tippen Sie, um zu beginnen"
+            "value" : "Fügen Sie einen Tap hinzu, um zu beginnen"
           }
         },
         "es" : {
@@ -8425,7 +8425,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle gültigen Paketdateien aus der BOM-Liste wurden entfernt. Sie können dieses Paket vergessen."
+            "value" : "Alle gültigen Paketdateien aus der BOM-Liste wurden entfernt. Sie können dieses Paket nun vergessen."
           }
         },
         "es" : {
@@ -8661,7 +8661,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestätigen Sie immer die markierten Dateien zum löschen. In seltenen Fällen können Dateien gefunden werden, die nichts mit der App zu tun haben, wenn die App-Namen zu ähnlich sind."
+            "value" : "Prüfen & bestätigen Sie immer die zur Löschung markierten Dateien. In seltenen Fällen können auch Dateien gefunden werden, die nichts mit der App zu tun haben; wenn die App-Namen zu ähnlich sind."
           }
         },
         "es" : {
@@ -8780,7 +8780,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestätigen Sie immer die zum Entfernen markierten Dateien. In seltenen Fällen können nicht verwandte Dateien gefunden werden, wenn die Namen der App zu ähnlich sind.\n\nHINWEIS: Pearcleaner verwendet AppleScript, um Dateien zu entfernen. Derzeit erlaubt macOS nicht, dass AppleScript sich mit dem Fingerabdrucksensor authentifiziert, nur die Passwortauthentifizierung wird unterstützt."
+            "value" : "Prüfen und bestätigen Sie immer die zum Entfernen markierten Dateien. In seltenen Fällen können nicht verwandte Dateien gefunden werden, wenn die Namen der App zu ähnlich sind.\n\nHINWEIS: Pearcleaner verwendet AppleScript, um Dateien zu entfernen. Derzeit erlaubt macOS nicht, dass AppleScript sich mit dem Fingerabdrucksensor authentifiziert, nur die Passwortauthentifizierung wird unterstützt."
           }
         },
         "es" : {
@@ -12090,7 +12090,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Automatisches Beschneiden (macOS-Sprache beibehalten)"
+            "value" : "Automatisches Bereinigen (macOS-Sprache beibehalten)"
           }
         },
         "es" : {
@@ -12917,7 +12917,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abgefüllt (vorgefertigte Binärdatei)"
+            "value" : "Bottled (fertige Binärdatei)"
           }
         },
         "es" : {
@@ -13271,7 +13271,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nur bauen:"
+            "value" : "Nur Build:"
           }
         },
         "es" : {
@@ -13507,7 +13507,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bundle Dateien…"
+            "value" : "Dateien packen…"
           }
         },
         "es" : {
@@ -13743,7 +13743,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Das Bundle-Dünnen (lipo) ist ein aggressiver Vorgang, der die Binärdateien innerhalb von App-Bündeln modifiziert, indem ungenutzte Architekturen entfernt werden. Obwohl es im Allgemeinen sicher ist, können einige Apps nach diesem Prozess Probleme haben oder nicht starten. Es wird dringend empfohlen, vor dem Fortfahren ein Backup Ihrer App zu erstellen, insbesondere für kritische oder häufig verwendete Apps."
+            "value" : "Das Bundle-Thinning (lipo) ist ein aggressiver Vorgang, der die Binärdateien innerhalb von App-Bündeln modifiziert, indem ungenutzte Architekturen entfernt werden. Obwohl es im Allgemeinen sicher ist, können einige Apps nach diesem Prozess Probleme haben oder nicht starten. Es wird dringend empfohlen, vor dem Fortfahren ein Backup Ihrer App zu erstellen, insbesondere für kritische oder häufig verwendete Apps."
           }
         },
         "es" : {
@@ -13862,7 +13862,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bundle-Dünnung abgeschlossen. Gesamter Speicherplatz, der durch alle Binärdateien im Bündel eingespart wurde."
+            "value" : "Bundle-Thinning abgeschlossen. Gesamter Speicherplatz, der durch alle Binärdateien im Bündel eingespart wurde."
           }
         },
         "es" : {
@@ -15871,7 +15871,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schauen Sie sich die neuesten Ergänzungen zu Pearcleaner an."
+            "value" : "Schauen Sie sich die neuesten Verbesserungen von Pearcleaner an."
           }
         },
         "es" : {
@@ -15989,7 +15989,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prüfen..."
+            "value" : "Prüfe..."
           }
         },
         "es" : {
@@ -16225,7 +16225,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sprachen auswählen..."
+            "value" : "Sprache auswählen..."
           }
         },
         "es" : {
@@ -16461,7 +16461,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reinigung..."
+            "value" : "Bereinige…"
           }
         },
         "es" : {
@@ -18593,7 +18593,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paket vollständig entfernen: Alle Dateien, Belege löschen und Paket vergessen"
+            "value" : "Paket vollständig entfernen: Alle Dateien, Rezepte und das Paket löschen"
           }
         },
         "es" : {
@@ -20485,7 +20485,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tief"
+            "value" : "Gründlich"
           }
         },
         "es" : {
@@ -20603,7 +20603,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiefensuchstufe"
+            "value" : "Gründlichkeits-Suchstufe"
           }
         },
         "es" : {
@@ -28164,7 +28164,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ausschliessen"
+            "value" : "Ausschließen"
           }
         },
         "es" : {
@@ -29464,7 +29464,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportiere Dateipfad…"
+            "value" : "Datei-Pfade exportieren …"
           }
         },
         "es" : {
@@ -32184,7 +32184,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gefunden im %@ App Store. Im App Store öffnen, um zu aktualisieren."
+            "value" : "%@ im App Store gefunden. Im App Store öffnen, um zu aktualisieren."
           }
         },
         "es" : {
@@ -33005,6 +33005,130 @@
             "state" : "translated",
             "value" : "GB"
           }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在收集 App 詳細資料"
+          }
+        }
+      }
+    },
+    "GB" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GB"
+          }
         }
       }
     },
@@ -33014,7 +33138,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Allgemeine"
+            "value" : "Allgemein"
           }
         },
         "es" : {
@@ -33960,7 +34084,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Helfer-Spielplatz"
+            "value" : "Helper Testumgebung"
           }
         },
         "es" : {
@@ -37148,7 +37272,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Installieren %@"
+            "value" : "%@ installieren"
           }
         },
         "es" : {
@@ -37266,7 +37390,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Installieren %@?"
+            "value" : "%@ installieren?"
           }
         },
         "es" : {
@@ -38447,7 +38571,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Installieren..."
+            "value" : "Installiere…"
           }
         },
         "es" : {
@@ -38684,7 +38808,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schnittstelle"
+            "value" : "Darstellung"
           }
         },
         "es" : {
